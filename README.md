@@ -4,7 +4,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![Desktop output](/images/deskotp-output.png)
+![Desktop output](/images/desktop-output.png)
 ![Mobile output](/images/mobile-output.png)
 
 ### Links
