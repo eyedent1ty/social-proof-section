@@ -109,7 +109,7 @@ body {
   margin-bottom: 0;
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 1440px) {
   .bg-pattern-top {
     background: center/cover no-repeat url("images/bg-pattern-top-desktop.svg");
   }

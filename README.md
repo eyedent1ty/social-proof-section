@@ -10,4 +10,4 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [Code](https://github.com/eyedent1ty/social-proof-section)
-- Live Site URL: [See live](https://your-live-site-url.com)
+- Live Site URL: [See live](https://eyedent1ty-social-proof-section.netlify.app/)
